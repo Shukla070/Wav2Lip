@@ -1,8 +1,8 @@
-librosa==0.7.0
-numpy==1.17.1
+requirements.txt
+librosa==0.8.1
+numpy==1.23.5
 opencv-contrib-python>=4.2.0.34
-opencv-python==4.1.0.25
-torch==1.1.0
-torchvision==0.3.0
-tqdm==4.45.0
-numba==0.48
+torch==2.0.1  # Updated from 1.13.1 → 2.0.1
+torchvision==0.15.2
+tqdm==4.66.1
+numba==0.57.1
